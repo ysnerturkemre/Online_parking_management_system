@@ -1,0 +1,99 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style: none;
+	font-family: lato;
+}
+
+.container{
+width: 100%;
+height: auto;
+padding: 20px 0px;
+}
+
+h1{
+font-size: 55px;
+font-weight: 600;
+text-shadow: 0px 0px 5px orange;
+}
+
+p{
+font-size: 17px;
+letter-spacing: 1px;
+margin: 10px 0px;
+padding: 0px 20px;
+
+}
+
+.text-center{
+text-align: center;
+
+}
+
+
+header{
+width: 100%;
+height: 120px;
+text-align: center;
+display: flex;
+line-height: 120px;
+background-color: gray;
+position: sticky;
+top: 0;
+
+}
+.box-20{
+width: 20%;
+height: auto;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+
+}
+
+h2{
+	font-size: 20px;
+	font-weight:200;
+	text-shadow: 0px 0px 5px black;
+
+}
+
+.box-80{
+width: 80%;
+height: auto;
+
+}
+
+.box-80 ul{
+float: right;
+
+}
+
+.box-80 ul li{
+float: left;
+
+}
+.box-80 ul li a{
+display: block;
+color: white;
+font-weight: 600;
+padding: 0px 45px;
+text-align: center;
+transition: all 0.5s;
+
+}
+.box-80 ul li a:hover{
+background-color: orange;
+
+}
+.p-1{
+	text-shadow: 0px 0px 4px red;
+	font-weight: 500;
+
+
+
+}

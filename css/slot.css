@@ -1,0 +1,28 @@
+.a{
+  margin-top: 200px;
+  margin-left: 550px;
+
+}
+.c{
+  background-color: #fff;
+  
+  padding: 40px 120px 40px 0px;
+  
+}
+input {
+  width: 150%;
+  height: 20px;
+}
+input[type=text] {
+  background-color: #fff;
+  color: black;
+}
+input[type=date] {
+  background-color: #fff;
+  color: black;
+}
+input[type=time] {
+  background-color:#fff;
+  color: black;
+}
+.button {border-radius: 30px}
